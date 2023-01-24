@@ -1,0 +1,54 @@
+					MAP DESCRIPTION AND ANALYSIS
+				
+Introduction->
+Surat is a city in the Indian state of Gujarat. It used to be a large seaport and is now the commercial and economic center in South Gujarat.
+It is the administrative capital of the Surat district. The city is located 284 kilometres (176 mi) south of the state capital, Gandhinagar; 265 kilometres (165 mi) south of Ahmedabad; and 289 kilometres (180 mi) north of Mumbai. The city centre is located on the Tapti River, close to Arabian Sea.
+
+
+road->
+OLPAD
+sh169
+sh167
+sh6
+sh65
+sh197
+nh64
+KAMREJ
+sh167
+nh48
+MANDVI
+sh165
+sh65
+nh56
+MANGROL
+sh165
+sh166
+nh48
+CHORASI
+sh6
+sh168
+nh53
+nh64
+PALSANA
+sh187
+nh48
+nh53
+BARDOLI
+sh165
+Sh187
+nh53
+MAHUVA
+sh165
+sh170
+sh178
+sh180
+
+
+hospitals->
+chorasi_hospital=821
+kamrej_hospital=44
+mahuva_hospitals=9
+mandvi_hospitals=22
+mangrol_hospitals=35
+palsana_hospitals=36
+total hospitals-1045
